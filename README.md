@@ -29,7 +29,7 @@ Adicionalmente, el correo electrónico se ha convertido en un canal de comunicac
 ### Mensajería Electrónica
 Se trata de un sistema de intercambio de mensajes, sin soporte en papel, eso quiere decir, de ordenador a ordenador. Además puede operarse en cualquiera de los sistemas de red de comunicaciones, siempre y cuando se respeten los estándares del sistema.
 
-Otro aspecto a tomar en consideración, es que la mensajería electrónica permite comunicar, compartir información y gestionar tareas dentro y fuera de las oficinas. Su buen funcionamiento es clave para mejorar el rendimiento de los equipos de trabajo y lograr los niveles de productividad deseados.
+Otro aspecto que tomar en consideración, es que la mensajería electrónica permite comunicar, compartir información y gestionar tareas dentro y fuera de las oficinas. Su buen funcionamiento es clave para mejorar el rendimiento de los equipos de trabajo y lograr los niveles de productividad deseados.
 
 Las soluciones de mensajería avanzada (mensajes instantáneos, emails, voz, videoconferencia) son accesibles para toda una organización de forma remota vía VPN, VDI y a través de Internet con un simple navegador web desde cualquier dispositivo (PC, portátil, smartphone y tablet) en cualquier momento.
 
