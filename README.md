@@ -16,7 +16,7 @@ Consiste en un servicio gratuito donde el usuario puede enviar y recibir mensaje
 
 Adicionalmente, el correo electrónico se ha convertido en un canal de comunicación muy utilizado y con una gran aceptación general. Estas son algunas de las utilidades más destacadas que tiene:
 
-***Canal de comunicación:* ** Es una opción muy destacada tanto para empresas como para particulares. Los correos electrónicos facilitan el envío de mensajes que pueden ser útiles para los usuarios o cualquier negocio; y las compañías suelen incluir el correo electrónico como una de las opciones de contacto más destacadas para comunicarse con sus clientes.
+***Canal de comunicación:*** Es una opción muy destacada tanto para empresas como para particulares. Los correos electrónicos facilitan el envío de mensajes que pueden ser útiles para los usuarios o cualquier negocio; y las compañías suelen incluir el correo electrónico como una de las opciones de contacto más destacadas para comunicarse con sus clientes.
 
 ***Envío de un boletín informativo:***  Se trata de enviar noticias a los clientes o usuarios que se han registrado en una web para recibir información o bien pertenecen a la base de datos de un negocio. Con esta técnica se pretende estar en contacto con los clientes para que estén informados de todas las novedades y de lo que acontece en una empresa.
 
@@ -24,7 +24,7 @@ Adicionalmente, el correo electrónico se ha convertido en un canal de comunicac
 
 ***Gestiones comerciales:***  El correo electrónico permite estar informado por parte de las empresas y servicios a la hora de domiciliar recibos. Además, cuando se realiza alguna compra online es indispensable, ya que se enviará un mensaje para hacer el seguimiento del pedido. Es muy importante disponer de un correo electrónico para cualquier notificación por parte de empresas o instituciones.
 
-***Registrarse en blogs y redes sociales:* ** Los usuarios necesitan un correo electrónico para suscribirse en las distintas plataformas que existen en Internet. Por ejemplo, si un individuo quiere crear un perfil propio en Facebook, será necesario que disponga de un correo electrónico para completar su registro.
+***Registrarse en blogs y redes sociales:*** Los usuarios necesitan un correo electrónico para suscribirse en las distintas plataformas que existen en Internet. Por ejemplo, si un individuo quiere crear un perfil propio en Facebook, será necesario que disponga de un correo electrónico para completar su registro.
 
 ### Mensajería Electrónica
 Se trata de un sistema de intercambio de mensajes, sin soporte en papel, eso quiere decir, de ordenador a ordenador. Además puede operarse en cualquiera de los sistemas de red de comunicaciones, siempre y cuando se respeten los estándares del sistema.
