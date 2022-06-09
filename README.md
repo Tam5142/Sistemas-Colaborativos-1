@@ -6,9 +6,13 @@ Los Sistemas Colaborativos (también conocido como groupware) son sistemas basad
 Por otro lado, en lo que respecta a la clasificación en los sistemas colaborativos, conforme a la función del tipo de aplicación, se encuentran los siguiente:
 
 - Correo
+
 - Mensajería Electrónica
+
 - Sistemas de Calendario
+
 - Agenda
+
 - Estudio de ejemplos
 
 ### Correo
