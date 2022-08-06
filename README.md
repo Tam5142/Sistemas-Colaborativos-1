@@ -76,4 +76,4 @@ Es el software que brinda soporte a un grupo de trabajo, para que se pueda traba
 
 Ejemplos: teléfono, videoconferencia, sistemas de pláticas, entre otros.
 
-Nota: Este proyecto se subirá a Jenkins
+Nota: Este primer proyecto se subirá a Jenkins
